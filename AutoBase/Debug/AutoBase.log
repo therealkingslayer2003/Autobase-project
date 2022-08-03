@@ -1,0 +1,17 @@
+﻿  ArrayMessage.cpp
+  Auto.cpp
+  AutoBase.cpp
+C:\Users\ACER\source\repos\AutoBase\AutoBase.cpp(137,47): warning C4018: <: несоответствие типов со знаком и без знака
+  Container.cpp
+  Driver.cpp
+  Drivers.cpp
+  ErrorMessage.cpp
+  Manager.cpp
+  Menu.cpp
+  Order.cpp
+C:\Users\ACER\source\repos\AutoBase\Order.cpp(28,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  RangeMessage.cpp
+  Route.cpp
+  Timetable.cpp
+  Создание кода...
+  AutoBase.vcxproj -> C:\Users\ACER\source\repos\AutoBase\Debug\AutoBase.exe
